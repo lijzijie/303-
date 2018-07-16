@@ -1,3 +1,7 @@
-303最靓的仔
-huangguanxin shabi
-廖文斌
+
+#include <stdio.h>
+
+void main()
+{
+  printf("靓仔斌最帅");
+}
